@@ -30,7 +30,7 @@ This is a solution to the [Grid landing page challenge on Frontend Mentor](https
 
 ### Links
 - Solution URL: https://github.com/MrM508/-grid-landing-page#the-challenge
-- Live Site URL: <!-- TODO -->
+- Live Site URL: https://mrm508.github.io/-grid-landing-page/
 
 ## My process
 
